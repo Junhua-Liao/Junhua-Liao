@@ -1,7 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://cs.scu.edu.cn" target="_blank">College of Computer Science</a>, <a href="http://www.scu.edu.cn" target="_blank">Sichuan University</a> (SCU). I got my B.Eng. degree (2016-2020) from <a href="http://cs.scu.edu.cn" target="_blank">College of Computer Science</a>, <a href="http://www.scu.edu.cn" target="_blank">Sichuan University</a> (SCU).</p>
+<p>
+<a href="https://github.com/Junhua-Liao?tab=stars"> <img src="https://img.shields.io/github/stars/Junhua-Liao?label=stars&style=plastic" height="25px" alt="github stars" /> </a>
+<a href="https://scholar.google.com/citations?user=szZn9-IAAAAJ&hl=en"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
+<a href="liaojunhua@stu.scu.edu.cn"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email">
+
+Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://cs.scu.edu.cn" target="_blank">College of Computer Science</a>, <a href="http://www.scu.edu.cn" target="_blank">Sichuan University</a> (SCU). I got my B.Eng. degree (2016-2020) from <a href="http://cs.scu.edu.cn" target="_blank">College of Computer Science</a>, <a href="http://www.scu.edu.cn" target="_blank">Sichuan University</a> (SCU).
+</p>
 
 <h3>Open Source Projects</h3>
 <table>
