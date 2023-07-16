@@ -33,7 +33,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/ICASSP22-OcclusionDetection?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://junhua-liao.github.io/Occlusion-Detection/"><b>Occlusion Detection for Automatic Video Editing (DataSet) (MM 2020)</b></a></td>
+      <td><a href="https://junhua-liao.github.io/Occlusion-Detection/"><b>DataSet-Occlusion Detection for Automatic Video Editing (MM 2020)</b></a></td>
       <td></td>
       <td></td>
       <td></td>
