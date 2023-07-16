@@ -20,12 +20,14 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/Light-ASD?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/Light-ASD?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+	  
+    <tr>
       <td><a href="https://github.com/Junhua-Liao/VSOD"><b>A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information (TCSVT 2023)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/VSOD?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/VSOD?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/VSOD?style=flat-square&labelColor=343b41"/></td>
     </tr>
+	  
     <tr>
       <td><a href="https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection"><b>A Light Weight Model for Video Shot Occlusion Detection (ICASSP 2022)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/ICASSP22-OcclusionDetection?style=flat-square&labelColor=343b41"/></td>
@@ -58,7 +60,7 @@
 </ol>
 
 
-<h3>Reviwer</h3>
+<h3>Reviewer</h3>
 <p>Academic Conference:</span></p>
 <ul class="mod-sub-list">
   <li>IEEE International Conference on High Performance Computing and Communications (IEEE HPCC 2022)</li>
