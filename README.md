@@ -36,10 +36,9 @@
 </table>
 
 <h3>Publications</h3>
-<tbody id="number">
-<tr>
+
   <li><b>Junhua Liao</b>, Haihan Duan, Wanbing Zhao, Kanghui Feng, Yanbing Yang, Liangyin Chen, <i>A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information</i>, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023, <b>CCF-B</b>. [<a href="https://ieeexplore.ieee.org/document/10182309">PDF</a>][<a href="https://github.com/Junhua-Liao/VSOD">Code</a>] </li>
-<\tr>
+
   <li><b>Junhua Liao</b>, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang, Liangyin Chen, <i>A Light Weight Model for Active Speaker Detection</i>, IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (CVPR 2023), Vancouver, Canada, Jun. 18-22, 2023, <b>CCF-A</b>. [<a href="https://seaxiaod.gitee.io/publications/2023/CVPR2023.pdf">PDF</a>][<a href="https://github.com/Junhua-Liao/Light-ASD">Code</a>] </li>
   <li>Haihan Duan, <b>Junhua Liao</b>, Lehao Lin, Wei Cai, <i>FLAD: A Human-centered Video Content Flaw Detection System for Meeting Recordings</i>, ACM International Workshop on Network and Operating System Support for Digital Audio and Video 2022 (NOSSDAV 2022), Athlone, Ireland, June 17, 2022, <b>CCF-B</b>. [<a href="https://seaxiaod.gitee.io/publications/2022/NOSSDAV2022.pdf">PDF</a>] </li>
   <li><b>Junhua Liao</b>, Haihan Duan, Wanbing Zhao, Yanbing Yang, Liangyin Chen, <i>A Light Weight Model for Video Shot Occlusion Detection</i>, IEEE International Conference on Acoustics, Speech and Signal Processing 2022 (ICASSP 2022), Singapore, May 22-27, 2022, <b>CCF-B</b>. [<a href="https://seaxiaod.gitee.io/publications/2022/ICASSP2022.pdf">PDF</a>][<a href="https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection">Code</a>] </li>
