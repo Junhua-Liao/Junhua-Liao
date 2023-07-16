@@ -51,6 +51,7 @@ Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://
 <h3>Publication List</h3>
 
 <ol>
+  * Equal Contribution
   <li><b>Junhua Liao</b>, Haihan Duan, Wanbing Zhao, Kanghui Feng, Yanbing Yang and Liangyin Chen, <i>A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information</i>, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023, <b>CCF-B</b>. [<a href="https://ieeexplore.ieee.org/document/10182309">PDF</a>][<a href="https://github.com/Junhua-Liao/VSOD">Code</a>] </li>
 	
   <li><b>Junhua Liao</b>, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang and Liangyin Chen, <i>A Light Weight Model for Active Speaker Detection</i>, IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (CVPR 2023), Vancouver, Canada, Jun. 18-22, 2023, <b>CCF-A</b>. [<a href="https://seaxiaod.gitee.io/publications/2023/CVPR2023.pdf">PDF</a>][<a href="https://github.com/Junhua-Liao/Light-ASD">Code</a>] </li>
@@ -65,9 +66,9 @@ Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://
   
   <li>Dan Jiang*, <b>Junhua Liao*</b>, Haihan Duan, Qingbin Wu, Gemma Owen, Liangyin Chen, Yanjun He, Ziqian Wu, Du Hu, Wenyan Zhang and Ziqiang Wang, <i>A Machine Learning-based Prognostic Predictor for Stage III Colon Cancer</i>, Scientific Reports, 2020, SCI. [<a href="https://seaxiaod.gitee.io/publications/2020/SR2020.pdf">PDF</a>] </li>
   
-  <li>Wei Wang, Haoran Jing, <b>Junhua Liao</b>, Feng Yin, Ping Yuan and Liangyin Chen, <i>A Safe Charging Algorithm Based on Multiple Mobile Chargers</i>, Sensors, 2020, SCI. [<a href="https://drive.google.com/file/d/1S0ujlET8bqkbjcHiEJJkcCN2dr56ZCiM/view?usp=sharing">PDF</a>] </li>
+  <li>Wei Wang*, Haoran Jing*, <b>Junhua Liao</b>, Feng Yin, Ping Yuan and Liangyin Chen, <i>A Safe Charging Algorithm Based on Multiple Mobile Chargers</i>, Sensors, 2020, SCI. [<a href="https://drive.google.com/file/d/1S0ujlET8bqkbjcHiEJJkcCN2dr56ZCiM/view?usp=sharing">PDF</a>] </li>
   
-  <li><b>Junhua Liao</b>, Haihan Duan, Huming Dai, Yunzhi Huang, Lunxin Liu, Liangyin Chen and Liangxue Zhou, <i>Automatic Detection of Intracranial Aneurysm from Digital Subtraction Angiography with Cascade Networks</i>, International Conference on Artificial Intelligence and Pattern Recognition 2019 (AIPR 2019), Beijing, China, Aug. 16-18, 2019, EI. [<a href="https://drive.google.com/file/d/1_Fw7I2P8sii5wtHTFUNXzN5xUsbLqsXf/view?usp=sharing">PDF</a>] </li>
+  <li><b>Junhua Liao</b>, Haihan Duan, Huming Dai, Yunzhi Huang, Lunxin Liu, Liangyin Chen and Liangxue Zhou, <i>Automatic Detection of Intracranial Aneurysm from Digital Subtraction Angiography with Cascade Networks</i>, International Conference on Artificial Intelligence and Pattern Recognition 2019 (AIPR 2019), Beijing, China, Aug. 16-18, 2019, EI. [<a href="https://seaxiaod.gitee.io/publications/2019/AIPR2019.pdf">PDF</a>] </li>
 </ol>
 
 
