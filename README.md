@@ -54,7 +54,7 @@
   
   <li><b>Junhua Liao*</b>, Lunxin Liu*, Haihan Duan, Yunzhi Huang, Liangxue Zhou, Liangyin Chen, Chaohua Wang, <i>Using a Convolutional Neural Network and Convolutional Long hort-term Memory to Automatically Detect Aneurysms on 2D Digital Subtraction Angiography Images: Framework Development and Validation</i>, JMIR Medical Informatics, 2022, SCI. [<a href="https://seaxiaod.gitee.io/publications/2022/JMIR2022.pdf">PDF</a>]</li>
   
-  <li><b>Junhua Liao*</b>, Haihan Duan*, Xin Li, Haoran Xu, Yanbing Yang, Wei Cai, Yanru Chen, Liangyin Chen, <i>Occlusion Detection for Automatic Video Editing</i>, ACM International Conference on Multimedia 2020 (ACM MM 2020), Seattle, USA, Oct. 12-16, 2020, <b>CCF-A</b>. [<a href="https://seaxiaod.gitee.io/publications/2020/ACMMM2020.pdf">PDF</a>][<a href="https://junhua-liao.github.io/Occlusion-Detection/">Project</a>] </li>
+  <li><b>Junhua Liao*</b>, Haihan Duan*, Xin Li, Haoran Xu, Yanbing Yang, Wei Cai, Yanru Chen, Liangyin Chen, <i>Occlusion Detection for Automatic Video Editing</i>, ACM International Conference on Multimedia 2020 (MM 2020), Seattle, USA, Oct. 12-16, 2020, <b>CCF-A</b>. [<a href="https://seaxiaod.gitee.io/publications/2020/ACMMM2020.pdf">PDF</a>][<a href="https://junhua-liao.github.io/Occlusion-Detection/">Project</a>] </li>
   
   <li>Dan Jiang*, <b>Junhua Liao*</b>, Haihan Duan, Qingbin Wu, Gemma Owen, Liangyin Chen, Yanjun He, Ziqian Wu, Du Hu, Wenyan Zhang and Ziqiang Wang, <i>A Machine Learning-based Prognostic Predictor for Stage III Colon Cancer</i>, Scientific Reports, 2020, SCI. [<a href="https://seaxiaod.gitee.io/publications/2020/SR2020.pdf">PDF</a>] </li>
   
