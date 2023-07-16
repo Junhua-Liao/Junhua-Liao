@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate at Sichuan University. </p>
+<p>Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://cs.scu.edu.cn" target="_blank">College of Computer Science</a>, <a href="http://www.scu.edu.cn" target="_blank">Sichuan University</a> (SCU). I got my B.Eng. degree (2016-2020) from <a href="http://cs.scu.edu.cn" target="_blank">College of Computer Science</a>, <a href="http://www.scu.edu.cn" target="_blank">Sichuan University</a> (SCU).</p>
 
 <h3>Open Source Projects</h3>
 <table>
@@ -67,6 +67,7 @@
 <h3>Reviewer</h3>
 <p>Academic Conference:</span></p>
 <ul class="mod-sub-list">
+  <li>IEEE International Conference on Multimedia and Expo 2023 (ICME 2023)</li>
   <li>IEEE International Conference on High Performance Computing and Communications (IEEE HPCC 2022)</li>
   <li>IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP 2022)</li>
 </ul>
