@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
 <p>
-<a href="https://github.com/Junhua-Liao" target="_blank"><img src="https://badges.pufler.dev/visits/Junhua-Liao/Junhua-Liao?logo=GitHub&color=555555&labelColor=ff4d6d&label=visitors&style=plastic" height="25px" alt="Visitor Badge" /></a>
+<a href="https://github.com/Junhua-Liao" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=Junhua-Liao.Junhua-Liao&left_color=%23ff4d6d&right_color=%23555555&left_text=Visitors&format=true" height="25px" alt="Visitor Badge" /></a>
 <a href="https://github.com/Junhua-Liao?tab=stars"> <img src="https://img.shields.io/github/stars/Junhua-Liao?label=stars&logo=github&style=plastic" height="25px" alt="github stars" /> </a>
 <a href="https://scholar.google.com/citations?user=szZn9-IAAAAJ&hl=en"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
 <a href="mailto:liaojunhua@stu.scu.edu.cn"> <img src="https://img.shields.io/badge/-liaojunhua@stu.scu.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:liaojunhua@stu.scu.edu.cn" height="25px" alt="Email"></a>
@@ -81,4 +80,4 @@ Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://
   <li>IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP 2022)</li>
 </ul>
 
-[![Profile last updated](https://img.shields.io/github/last-commit/Junhua-Liao/Junhua-Liao/master?label=Last%20updated&style=flat)](https://github.com/Junhua-Liao/Junhua-Liao/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/Junhua-Liao/Junhua-Liao/master?label=Last%20updated&style=plastic&logo=github)](https://github.com/Junhua-Liao/Junhua-Liao/commits)
