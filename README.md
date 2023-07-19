@@ -5,7 +5,8 @@
 <a href="https://github.com/Junhua-Liao" target="_blank"><img src="https://badges.pufler.dev/visits/Junhua-Liao/Junhua-Liao?logo=GitHub&color=555555&labelColor=ff4d6d&label=visitors&style=plastic" height="25px" alt="Visitor Badge" /></a>
 <a href="https://github.com/Junhua-Liao?tab=stars"> <img src="https://img.shields.io/github/stars/Junhua-Liao?label=stars&logo=github&style=plastic" height="25px" alt="github stars" /> </a>
 <a href="https://scholar.google.com/citations?user=szZn9-IAAAAJ&hl=en"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
-<a href="liaojunhua@stu.scu.edu.cn"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email"></a>
+<a href="mailto:liaojunhua@stu.scu.edu.cn"> <img src="https://img.shields.io/badge/-liaojunhua@stu.scu.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:liaojunhua@stu.scu.edu.cn" height="25px" alt="Email"></a>
+
 
 Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://cs.scu.edu.cn" target="_blank">College of Computer Science</a>, <a href="http://www.scu.edu.cn" target="_blank">Sichuan University</a> (SCU). I got my B.Eng. degree (2016-2020) from <a href="http://cs.scu.edu.cn" target="_blank">College of Computer Science</a>, <a href="http://www.scu.edu.cn" target="_blank">Sichuan University</a> (SCU).
 </p>
@@ -79,3 +80,5 @@ Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://
   <li>IEEE International Conference on High Performance Computing and Communications (IEEE HPCC 2022)</li>
   <li>IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP 2022)</li>
 </ul>
+
+[![Profile last updated](https://img.shields.io/github/last-commit/Junhua-Liao/Junhua-Liao/master?label=Last%20updated&style=flat)](https://github.com/Junhua-Liao/Junhua-Liao/commits)
