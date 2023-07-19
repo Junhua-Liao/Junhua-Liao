@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>
-<a href="https://github.com/Junhua-Liao" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=Junhua-Liao.Junhua-Liao&left_color=%23ff4d6d&right_color=%23555555&left_text=Visitors&format=true" height="25px" alt="Visitor Badge" /></a>
+<a href="https://github.com/Junhua-Liao" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=Junhua-Liao.Junhua-Liao&left_color=%23ff4d6d&right_color=%23555555&left_text=views&format=true" height="25px" alt="Visitor Badge" /></a>
 <a href="https://github.com/Junhua-Liao?tab=stars"> <img src="https://img.shields.io/github/stars/Junhua-Liao?label=stars&logo=github&style=plastic" height="25px" alt="github stars" /> </a>
 <a href="https://scholar.google.com/citations?user=szZn9-IAAAAJ&hl=en"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
 <a href="mailto:liaojunhua@stu.scu.edu.cn"> <img src="https://img.shields.io/badge/-liaojunhua@stu.scu.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:liaojunhua@stu.scu.edu.cn" height="25px" alt="Email"></a>
