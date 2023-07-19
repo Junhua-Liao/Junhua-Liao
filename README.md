@@ -3,6 +3,7 @@
 
 <p>
 <img src="https://vbr.wocr.tk/badge?page_id=Junhua-Liao&lcolor=ff4d6d&color=555555&style=flat&logo=Github&hit=false" height="25px" alt="Visitor Badge" />
+
 <a href="https://github.com/Junhua-Liao?tab=stars"> <img src="https://img.shields.io/github/stars/Junhua-Liao?label=stars&logo=github&style=plastic" height="25px" alt="github stars" /> </a>
 <a href="https://scholar.google.com/citations?user=szZn9-IAAAAJ&hl=en"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
 <a href="liaojunhua@stu.scu.edu.cn"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email"></a>
@@ -23,9 +24,9 @@ Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://
   <tbody>
     <tr>
       <td><a href="https://github.com/Junhua-Liao/Light-ASD"><b>A Light Weight Model for Active Speaker Detection (CVPR 2023)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/Light-ASD?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/Light-ASD?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/Light-ASD?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/Light-ASD?logo=github" height="20px"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/Light-ASD?logo=github" height="20px"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/Light-ASD?logo=github" height="20px"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Junhua-Liao/VSOD"><b>A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information (TCSVT 2023)</b></a></td>
