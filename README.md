@@ -24,21 +24,21 @@ Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://
   <tbody>
     <tr>
       <td><a href="https://github.com/Junhua-Liao/Light-ASD"><b>A Light Weight Model for Active Speaker Detection (CVPR 2023)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/Light-ASD?logo=github" height="20px"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/Light-ASD?logo=github" height="20px"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/Light-ASD?logo=github" height="20px"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/Light-ASD?logo=github" height="18px"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/Light-ASD?logo=github" height="18px"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/Light-ASD?logo=github" height="18px"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Junhua-Liao/VSOD"><b>A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information (TCSVT 2023)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/VSOD?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/VSOD?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/VSOD?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/VSOD?logo=github" height="18px"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/VSOD?logo=github" height="18px""/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/VSOD?logo=github" height="18px"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection"><b>A Light Weight Model for Video Shot Occlusion Detection (ICASSP 2022)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/ICASSP22-OcclusionDetection?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/ICASSP22-OcclusionDetection?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/ICASSP22-OcclusionDetection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github" height="18px"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github" height="18px"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github" height="18px"/></td>
     </tr>
     <tr>
       <td><a href="https://junhua-liao.github.io/Occlusion-Detection/"><b>DataSet-Occlusion Detection for Automatic Video Editing (MM 2020)</b></a></td>
