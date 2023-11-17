@@ -70,7 +70,7 @@ Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://
   
   <li>Wei Wang*, Haoran Jing*, <b>Junhua Liao</b>, Feng Yin, Ping Yuan and Liangyin Chen, <i>A Safe Charging Algorithm Based on Multiple Mobile Chargers</i>, Sensors, 2020, SCI. [<a href="https://drive.google.com/file/d/1S0ujlET8bqkbjcHiEJJkcCN2dr56ZCiM/view?usp=sharing">PDF</a>] </li>
   
-  <li><b>Junhua Liao</b>, Haihan Duan, Huming Dai, Yunzhi Huang, Lunxin Liu, Liangyin Chen and Liangxue Zhou, <i>Automatic Detection of Intracranial Aneurysm from Digital Subtraction Angiography with Cascade Networks</i>, International Conference on Artificial Intelligence and Pattern Recognition 2019 (AIPR 2019), Beijing, China, Aug. 16-18, 2019, EI. [<a href="https://gitee.com/liaojunhua/papers/raw/master/.pdf/AIPR_2019.pdf">PDF</a>] </li>
+  <li><b>Junhua Liao</b>, Haihan Duan, Huming Dai, Yunzhi Huang, Lunxin Liu, Liangyin Chen and Liangxue Zhou, <i>Automatic Detection of Intracranial Aneurysm from Digital Subtraction Angiography with Cascade Networks</i>, International Conference on Artificial Intelligence and Pattern Recognition 2019 (AIPR 2019), Beijing, China, Aug. 16-18, 2019, EI. [<a href="https://gitee.com/liaojunhua/papers/raw/master/pdf/AIPR_2019.pdf">PDF</a>] </li>
 </ol>
 
 
