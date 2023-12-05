@@ -13,42 +13,48 @@ Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://
 </p>
 
 <h3>Open Source Projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Junhua-Liao/Light-ASD"><b>A Light Weight Model for Active Speaker Detection (CVPR 2023)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/Light-ASD?logo=github" height="18px"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/Light-ASD?logo=github" height="18px"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/Light-ASD?logo=github" height="18px"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Junhua-Liao/VSOD"><b>A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information (TCSVT 2023)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/VSOD?logo=github" height="18px"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/VSOD?logo=github" height="18px""/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/VSOD?logo=github" height="18px"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection"><b>A Light Weight Model for Video Shot Occlusion Detection (ICASSP 2022)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github" height="18px"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github" height="18px"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github" height="18px"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://junhua-liao.github.io/Occlusion-Detection/"><b>DataSet-Occlusion Detection for Automatic Video Editing (MM 2020)</b></a></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
+
+<table bordercolor="white" bordercolordark="white" bordercolorlight="white" cellpadding="0" cellspacing="0" height="600" bgcolor="white"> 
+<tbody><tr valign="baseline"><td width="210"><p align="center" style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" class=""><img src="images/paper/cvpr23.png" width="210" height="130" border="0"></p></td>
+<td valign="middle"><p><i><b>A Light Weight Model for Active Speaker Detection</b></i><br> 
+<img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/Light-ASD?logo=github" height="18px"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/Light-ASD?logo=github" height="18px"/>
+<img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/Light-ASD?logo=github" height="18px"/><br>
+<b>Junhua Liao</b>, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang, Liangyin Chen<br> 
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023<br> 
+<span class="tag">[<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_A_Light_Weight_Model_for_Active_Speaker_Detection_CVPR_2023_paper.pdf">Paper</a>]</span> 
+<span class="tag">[<a href="https://github.com/Junhua-Liao/Light-ASD">Code</a>]</span></td></tbody> 
+
+<tbody><tr valign="baseline"><td width="210"><p align="center" style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" class=""><img src="images/paper/tcsvt23.png" width="210" height="130" border="0"></p></td>
+<td valign="middle"><p><i><b>A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information</b></i><br> 
+<img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/VSOD?logo=github" height="18px"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/VSOD?logo=github" height="18px"/>
+<img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/VSOD?logo=github" height="18px"/><br>
+<b>Junhua Liao</b>, Haihan Duan, Wanbing Zhao, Kanghui Feng, Yanbing Yang, Liangyin Chen<br> 
+IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>), 2023<br> 
+<span class="tag">[<a href="https://ieeexplore.ieee.org/document/10182309">Paper</a>]</span> 
+<span class="tag">[<a href="https://github.com/Junhua-Liao/VSOD">Code</a>]</span></td></tbody> 
+
+<tbody><tr valign="baseline"><td width="210"><p align="center" style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" class=""><img src="images/paper/icassp22.png" width="210" height="130" border="0"></p></td>
+<td valign="middle"><p><i><b>A Light Weight Model for Video Shot Occlusion Detection</b></i><br> 
+<img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github" height="18px"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github" height="18px"/>
+<img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github" height="18px"/><br>
+<b>Junhua Liao</b>, Haihan Duan, Wanbing Zhao, Yanbing Yang, Liangyin Chen<br> 
+IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2022<br> 
+<span class="tag">[<a href="https://gitee.com/liaojunhua/papers/raw/master/pdf/ICASSP_2022.pdf">Paper</a>]</span> 
+<span class="tag">[<a href="https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection">Code</a>]</span></td></tbody> 
+
+<tbody><tr valign="baseline"><td width="210"><p align="center" style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" class=""><img src="images/paper/mm20.png" width="210" height="130" border="0"></p></td>
+<td valign="middle"><p><i><b>Occlusion Detection for Automatic Video Editing</b></i><br> 
+<br>
+<b>Junhua Liao*</b>, Haihan Duan*, Xin Li, Haoran Xu, Yanbing Yang, Wei Cai, Yanru Chen, Liangyin Chen<br> 
+ACM International Conference on Multimedia (<b>MM</b>), 2020<br> 
+<span class="tag">[<a href="https://seaxiaod.gitee.io/publications/2020/ACMMM2020.pdf">Paper</a>]</span> 
+<span class="tag">[<a href="https://junhua-liao.github.io/Occlusion-Detection/">DataSet</a>]</span></td></tbody> 
+
 </table>
+
 
 <h3>Publication List</h3>
 
