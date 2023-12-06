@@ -44,6 +44,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>), 2
 <b>Junhua Liao</b>, Haihan Duan, Wanbing Zhao, Yanbing Yang, Liangyin Chen<br> 
 IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2022<br> 
 <span class="tag">[<a href="https://gitee.com/liaojunhua/papers/raw/master/pdf/ICASSP_2022.pdf">Paper</a>]</span> 
+<span class="tag">[<a href="https://gitee.com/liaojunhua/papers/raw/master/poster/icassp22.pdf">Poster</a>]</span> 
 <span class="tag">[<a href="https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection">Code</a>]</span></td></tbody> 
 
 <tbody><tr valign="baseline"><td width="210"><p align="center" style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" class=""><img src="images/paper/mm20.png" width="210" height="130" border="0"></p></td>
@@ -67,7 +68,7 @@ ACM International Conference on Multimedia (<b>MM</b>), 2020<br>
   
   <li>Haihan Duan, <b>Junhua Liao</b>, Lehao Lin and Wei Cai, <i>FLAD: A Human-centered Video Content Flaw Detection System for Meeting Recordings</i>, ACM International Workshop on Network and Operating System Support for Digital Audio and Video 2022 (NOSSDAV 2022), Athlone, Ireland, June 17, 2022, EI, <b>CCF-B</b>. [<a href="https://gitee.com/liaojunhua/papers/raw/master/pdf/NOSSDAV_2022.pdf">PDF</a>] </li>
   
-  <li><b>Junhua Liao</b>, Haihan Duan, Wanbing Zhao, Yanbing Yang and Liangyin Chen, <i>A Light Weight Model for Video Shot Occlusion Detection</i>, IEEE International Conference on Acoustics, Speech and Signal Processing 2022 (ICASSP 2022), Singapore, May 22-27, 2022, EI, <b>CCF-B</b>. [<a href="https://gitee.com/liaojunhua/papers/raw/master/pdf/ICASSP_2022.pdf">PDF</a>][<a href="https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection">Code</a>] </li>
+  <li><b>Junhua Liao</b>, Haihan Duan, Wanbing Zhao, Yanbing Yang and Liangyin Chen, <i>A Light Weight Model for Video Shot Occlusion Detection</i>, IEEE International Conference on Acoustics, Speech and Signal Processing 2022 (ICASSP 2022), Singapore, May 22-27, 2022, EI, <b>CCF-B</b>. [<a href="https://gitee.com/liaojunhua/papers/raw/master/pdf/ICASSP_2022.pdf">PDF</a>][<a href="https://gitee.com/liaojunhua/papers/raw/master/poster/icassp22.pdf">Poster</a>][<a href="https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection">Code</a>] </li>
   
   <li><b>Junhua Liao*</b>, Lunxin Liu*, Haihan Duan, Yunzhi Huang, Liangxue Zhou, Liangyin Chen and Chaohua Wang, <i>Using a Convolutional Neural Network and Convolutional Long Short-term Memory to Automatically Detect Aneurysms on 2D Digital Subtraction Angiography Images: Framework Development and Validation</i>, JMIR Medical Informatics, 2022, SCI. [<a href="https://gitee.com/liaojunhua/papers/raw/master/pdf/JMI_2022.pdf">PDF</a>]</li>
   
