@@ -23,6 +23,7 @@ Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://
 <b>Junhua Liao</b>, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang, Liangyin Chen<br> 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023<br> 
 <span class="tag">[<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_A_Light_Weight_Model_for_Active_Speaker_Detection_CVPR_2023_paper.pdf">Paper</a>]</span> 
+<span class="tag">[<a href="https://gitee.com/liaojunhua/papers/raw/master/poster/cvpr23.png">Poster</a>]</span> 
 <span class="tag">[<a href="https://github.com/Junhua-Liao/Light-ASD">Code</a>]</span></td></tbody> 
 
 <tbody><tr valign="baseline"><td width="210"><p align="center" style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" class=""><img src="images/paper/tcsvt23.png" width="210" height="130" border="0"></p></td>
