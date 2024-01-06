@@ -17,8 +17,8 @@ Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://
 <table bordercolor="white" bordercolordark="white" bordercolorlight="white" cellpadding="0" cellspacing="0" height="600" bgcolor="white"> 
 <tbody><tr valign="baseline"><td width="210"><p align="center" style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" class=""><img src="images/paper/cvpr23.png" width="210" height="130" border="0"></p></td>
 <td valign="middle"><p><i><b>A Light Weight Model for Active Speaker Detection</b></i><br> 
-<img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/Light-ASD?logo=github" height="18px"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/Light-ASD?logo=github" height="18px"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/Light-ASD?logo=github&style=plastic" height="18px"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/Light-ASD?logo=github&style=plastic" height="18px"/>
 <img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/Light-ASD?logo=github" height="18px"/><br>
 <b>Junhua Liao</b>, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang, Liangyin Chen<br> 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023<br> 
@@ -28,8 +28,8 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 20
 
 <tbody><tr valign="baseline"><td width="210"><p align="center" style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" class=""><img src="images/paper/tcsvt23.png" width="210" height="130" border="0"></p></td>
 <td valign="middle"><p><i><b>A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information</b></i><br> 
-<img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/VSOD?logo=github" height="18px"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/VSOD?logo=github" height="18px"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/VSOD?logo=github&style=plastic" height="18px"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/VSOD?logo=github&style=plastic" height="18px"/>
 <img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/VSOD?logo=github" height="18px"/><br>
 <b>Junhua Liao</b>, Haihan Duan, Wanbing Zhao, Kanghui Feng, Yanbing Yang, Liangyin Chen<br> 
 IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>), 2023<br> 
@@ -38,8 +38,8 @@ IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>), 2
 
 <tbody><tr valign="baseline"><td width="210"><p align="center" style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" class=""><img src="images/paper/icassp22.png" width="210" height="130" border="0"></p></td>
 <td valign="middle"><p><i><b>A Light Weight Model for Video Shot Occlusion Detection</b></i><br> 
-<img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github" height="18px"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github" height="18px"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github&style=plastic" height="18px"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github&style=plastic" height="18px"/>
 <img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/ICASSP22-OcclusionDetection?logo=github" height="18px"/><br>
 <b>Junhua Liao</b>, Haihan Duan, Wanbing Zhao, Yanbing Yang, Liangyin Chen<br> 
 IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2022<br> 
