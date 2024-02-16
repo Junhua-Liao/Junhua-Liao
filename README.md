@@ -62,6 +62,8 @@ ACM International Conference on Multimedia (<b>MM</b>), 2020<br>
 
 <ol>
   * Equal Contribution
+  <li>Haihan Duan, <b>Junhua Liao</b>, Lehao Lin, Abdulmotaleb El Saddik and Wei Cai, <i>Meetor: A Human-Centered Automatic Video Editing System for Meeting Recordings</i>, ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2024, SCI, <b>CCF-B</b>. (Accept) </li>
+	
   <li><b>Junhua Liao</b>, Haihan Duan, Wanbing Zhao, Kanghui Feng, Yanbing Yang and Liangyin Chen, <i>A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information</i>, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023, SCI, <b>CCF-B</b>. [<a href="https://ieeexplore.ieee.org/document/10182309">PDF</a>][<a href="https://github.com/Junhua-Liao/VSOD">Code</a>] </li>
 	
   <li><b>Junhua Liao</b>, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang and Liangyin Chen, <i>A Light Weight Model for Active Speaker Detection</i>, IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (CVPR 2023), Vancouver, Canada, Jun. 18-22, 2023, EI, <b>CCF-A</b>. [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_A_Light_Weight_Model_for_Active_Speaker_Detection_CVPR_2023_paper.pdf">PDF</a>][<a href="https://gitee.com/liaojunhua/papers/raw/master/poster/cvpr23.pdf">Poster</a>][<a href="https://github.com/Junhua-Liao/Light-ASD">Code</a>] </li>
