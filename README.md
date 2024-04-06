@@ -92,5 +92,9 @@ ACM International Conference on Multimedia (<b>MM</b>), 2020<br>
   <li>IEEE International Conference on High Performance Computing and Communications (IEEE HPCC 2022)</li>
   <li>IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP 2022)</li>
 </ul>
+<p>Academic Journal and Magazine:</span></p>
+<ul class="mod-sub-list">
+  <li>IEEE Transactions on Multimedia (TMM)</li>
+</ul>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/Junhua-Liao/Junhua-Liao/master?label=Last%20updated&style=plastic&logo=github)](https://github.com/Junhua-Liao/Junhua-Liao/commits)
