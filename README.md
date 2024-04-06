@@ -6,7 +6,6 @@
 <a href="mailto:liaojunhua@stu.scu.edu.cn"> <img src="https://img.shields.io/badge/-liaojunhua@stu.scu.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:liaojunhua@stu.scu.edu.cn" height="25px" alt="Email"></a>
 <a href="https://github.com/Junhua-Liao?tab=stars"> <img src="https://img.shields.io/github/stars/Junhua-Liao?label=stars&logo=github&style=plastic" height="25px" alt="github stars" /> </a>
 <a href="https://github.com/Junhua-Liao" target="_blank"><img alt="Junhua-Liao" src="https://badges.pufler.dev/visits/Junhua-Liao/Junhua-Liao?logo=GitHub&label=visitors&color=ff4d6d&logoColor=white&style=plastic" height="25px"/></a>
-<a href="https://github.com/Junhua-Liao" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=Junhua-Liao.Junhua-Liao&left_color=%23555555&right_color=%2335ce8d&left_text=views&format=true" height="25px" alt="Visitor Badge" /></a>
 
 	
 Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://cs.scu.edu.cn" target="_blank">College of Computer Science</a>, <a href="http://www.scu.edu.cn" target="_blank">Sichuan University</a> (SCU). I got my B.Eng. degree (2016-2020) from <a href="http://cs.scu.edu.cn" target="_blank">College of Computer Science</a>, <a href="http://www.scu.edu.cn" target="_blank">Sichuan University</a> (SCU).
