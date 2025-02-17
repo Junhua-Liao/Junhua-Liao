@@ -61,6 +61,8 @@ ACM International Conference on Multimedia (<b>MM</b>), 2020<br>
 
 <ol>
   * Equal Contribution
+  <li><b>Junhua Liao</b>, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang, Liangyin Chen and Yanru Chen, <i>LR-ASD: Lightweight and Robust Network for Active Speaker Detection</i>, International Journal of Computer Vision (IJCV), 2025, JCR-Q1, <b>CCF-A</b>. (Accept)</li>
+ 
   <li>Haihan Duan, <b>Junhua Liao</b>, Lehao Lin, Abdulmotaleb El Saddik and Wei Cai, <i>Meetor: A Human-Centered Automatic Video Editing System for Meeting Recordings</i>, ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2024, JCR-Q1, <b>CCF-B</b>. [<a href="https://junhua-liao.github.io/Junhua-Liao/publications/papers/TOMM_2024.pdf">PDF</a>] </li>
 	
   <li><b>Junhua Liao</b>, Haihan Duan, Wanbing Zhao, Kanghui Feng, Yanbing Yang and Liangyin Chen, <i>A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information</i>, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023, JCR-Q1, <b>CCF-B</b>. [<a href="https://junhua-liao.github.io/Junhua-Liao/publications/papers/TCSVT_2023.pdf">PDF</a>][<a href="https://github.com/Junhua-Liao/VSOD">Code</a>] </li>
