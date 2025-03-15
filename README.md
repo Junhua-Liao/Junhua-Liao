@@ -13,7 +13,17 @@ Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://
 
 <h3>Open Source Projects</h3>
 
-<table bordercolor="white" bordercolordark="white" bordercolorlight="white" cellpadding="0" cellspacing="0" height="600" bgcolor="white"> 
+<table bordercolor="white" bordercolordark="white" bordercolorlight="white" cellpadding="0" cellspacing="0" height="750" bgcolor="white"> 
+<tbody><tr valign="baseline"><td width="210"><p align="center" style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" class=""><img src="images/paper/ijcv25.png" width="210" height="130" border="0"></p></td>
+<td valign="middle"><p><i><b>LR-ASD: Lightweight and Robust Network for Active Speaker Detection</b></i><br> 
+<img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/LR-ASD?logo=github&style=plastic-flat" height="18px"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/Junhua-Liao/LR-ASD?logo=github&style=plastic-flat" height="18px"/>
+<img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/LR-ASD?logo=github&style=plastic-flat" height="18px"/><br>
+<b>Junhua Liao</b>, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang, Liangyin Chen, Yanru Chen<br> 
+International Journal of Computer Vision (<b>IJCV</b>), 2025<br> 
+<span class="tag">[<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_A_Light_Weight_Model_for_Active_Speaker_Detection_CVPR_2023_paper.pdf">Paper</a>]</span> 
+<span class="tag">[<a href="https://github.com/Junhua-Liao/LR-ASD">Code</a>]</span></td></tbody> 
+
 <tbody><tr valign="baseline"><td width="210"><p align="center" style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" class=""><img src="images/paper/cvpr23.png" width="210" height="130" border="0"></p></td>
 <td valign="middle"><p><i><b>A Light Weight Model for Active Speaker Detection</b></i><br> 
 <img alt="Stars" src="https://img.shields.io/github/stars/Junhua-Liao/Light-ASD?logo=github&style=plastic-flat" height="18px"/>
