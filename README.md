@@ -21,7 +21,7 @@ Welcome to my page! </br> I'm Junhua Liao, a Ph.D. candidate in <a href="http://
 <img alt="Issues" src="https://img.shields.io/github/issues/Junhua-Liao/LR-ASD?logo=github&style=plastic-flat" height="18px"/><br>
 <b>Junhua Liao</b>, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang, Liangyin Chen, Yanru Chen<br> 
 International Journal of Computer Vision (<b>IJCV</b>), 2025<br> 
-<span class="tag">[<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_A_Light_Weight_Model_for_Active_Speaker_Detection_CVPR_2023_paper.pdf">Paper</a>]</span> 
+<span class="tag">[<a href="https://junhua-liao.github.io/Junhua-Liao/publications/papers/IJCV_2025.pdf">Paper</a>]</span> 
 <span class="tag">[<a href="https://github.com/Junhua-Liao/LR-ASD">Code</a>]</span></td></tbody> 
 
 <tbody><tr valign="baseline"><td width="210"><p align="center" style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" class=""><img src="images/paper/cvpr23.png" width="210" height="130" border="0"></p></td>
@@ -71,7 +71,7 @@ ACM International Conference on Multimedia (<b>MM</b>), 2020<br>
 
 <ol>
   * Equal Contribution
-  <li><b>Junhua Liao</b>, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang, Liangyin Chen and Yanru Chen, <i>LR-ASD: Lightweight and Robust Network for Active Speaker Detection</i>, International Journal of Computer Vision (IJCV), 2025, JCR-Q1, <b>CCF-A</b>. (Accept) [<a href="https://github.com/Junhua-Liao/LR-ASD">Code</a>]</li>
+  <li><b>Junhua Liao</b>, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang, Liangyin Chen and Yanru Chen, <i>LR-ASD: Lightweight and Robust Network for Active Speaker Detection</i>, International Journal of Computer Vision (IJCV), 2025, JCR-Q1, <b>CCF-A</b>. [<a href="https://junhua-liao.github.io/Junhua-Liao/publications/papers/IJCV_2025.pdf">PDF</a>] [<a href="https://github.com/Junhua-Liao/LR-ASD">Code</a>]</li> 
  
   <li>Haihan Duan, <b>Junhua Liao</b>, Lehao Lin, Abdulmotaleb El Saddik and Wei Cai, <i>Meetor: A Human-Centered Automatic Video Editing System for Meeting Recordings</i>, ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2024, JCR-Q1, <b>CCF-B</b>. [<a href="https://junhua-liao.github.io/Junhua-Liao/publications/papers/TOMM_2024.pdf">PDF</a>] </li>
 	
